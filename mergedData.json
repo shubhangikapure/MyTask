@@ -1,0 +1,30 @@
+{
+    "success": true,
+    "data": [
+      {
+        "name": "Vindaloo",
+        "description": "Spicy Goan curry",
+        "price": 250,
+        "locations": ["Panaji", "Margao"],
+        "nutritionalInfo": {
+          "calories": 450,
+          "protein": "25g",
+          "carbs": "40g"
+        },
+        "stockOut": false
+      },
+      {
+        "name": "Prawn Balchao",
+        "description": "Tangy prawn pickle",
+        "price": 300,
+        "locations": ["Vasco", "Candolim"],
+        "nutritionalInfo": {
+          "calories": 200,
+          "protein": "15g",
+          "carbs": "5g"
+        },
+        "stockOut": true
+      }
+    ]
+  }
+  
